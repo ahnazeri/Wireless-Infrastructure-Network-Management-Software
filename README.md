@@ -1,7 +1,7 @@
 # Wireless Infrastructure Network Management Software
  This Software provides Controling, Monitoring and analyzing a Micro-grid(power grid) Network.
 
- this project is underdevelope and it will be finish by Oct. 15th.
+ this project is underdeveloped and it will be finish by Oct. 15th.
  
  following features have been developed so far:
  
