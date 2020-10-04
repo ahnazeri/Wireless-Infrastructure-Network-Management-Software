@@ -1,6 +1,8 @@
 # Wireless Infrastructure Network Management Software
  This Software provides Controling, Monitoring and analyzing a Micro-grid(power grid) Network.
+
  this project is underdevelope and it will be finish by Oct. 15th.
+ 
  following features have been developed so far:
  1-login and authentication panel
  2-Network Configuration page (setting power grids' name and key codes)
