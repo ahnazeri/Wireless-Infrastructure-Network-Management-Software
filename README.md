@@ -19,10 +19,10 @@
  
  7. Micro-Grid Diagram
 
-### *Software Aechitecture Demo*
+### *Software Aechitecture Demo:*
 ![Software Architecture](/Documentation/Software%20Architecture.jpg)
 
-### *Micro-Grid Diagram*
+### *Micro-Grid Diagram:*
 ![Micro-Grid Diagram](/Documentation/Micro%20Grid%20Diagram.jpg)
 
 
