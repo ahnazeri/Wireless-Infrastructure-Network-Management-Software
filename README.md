@@ -13,7 +13,7 @@
  
  4. Graph page (plotting power grids's data like, Voltage, Power, etc.)
  
- 5. Data table (exhibit online data of micro-grid network)
+ 5. Data table (exhibit data of micro-grid network online)
  
  6. saving section (save all data coming from network nodes in .csv format)
  
