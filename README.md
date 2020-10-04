@@ -19,4 +19,7 @@
  
  7. Micro-Grid Diagram
 
+*Software Aechitecture Demo*
 ![Software Architecture](/Documentation/Software%20Architecture.jpg)
+
+
