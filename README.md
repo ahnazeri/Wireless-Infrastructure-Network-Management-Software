@@ -18,3 +18,5 @@
  6. saving section (save all data coming from network nodes in .csv format)
  
  7. Micro-Grid Diagram
+
+![Software Architecture](Documentation/Software Architecture.jpg)
